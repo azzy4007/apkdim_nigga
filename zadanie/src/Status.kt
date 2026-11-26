@@ -1,0 +1,1 @@
+enum class Status { PRZYJETE, W_NAPRAWIE, GOTOWE_DO_ODBIORU }
