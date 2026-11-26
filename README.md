@@ -11,5 +11,8 @@ Zestaw 2 (28 godz./tyg. przez 15 tygodni): łącznie 420 godzin
 ==============================
 
 Process finished with exit code 0
- quiz 8/10
+
+
+
+quiz 8/10
  
